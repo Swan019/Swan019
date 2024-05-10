@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Swapnil Ingale</h1>
+<h1 align="center">Hi 👋, I'm Swapnil Ingale [swan019]</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 <img align="right" alt="Coding" width="100vw"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 <!-- <img align="right" alt="Coding" width="400" src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" /> -->
@@ -9,7 +9,6 @@
 
 <p align="left"> <a href="https://twitter.com/iamswapnil_1" target="blank"><img src="https://img.shields.io/twitter/follow/iamswapnil_1?logo=twitter&style=for-the-badge" alt="iamswapnil_1" /></a> </p>
 
-- 📝 I regularly write articles on [medium.com/](medium.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
